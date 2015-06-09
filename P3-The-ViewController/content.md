@@ -50,7 +50,7 @@ I know you are itching to do some actual coding, however before we start let's h
 
 ##Auto Layout
 
-Back in days of old, desiging an app was realativley straightforward.  You had one resolution to work with, with the iPad developers would often develop two version of an app however those days 
+Back in days of old, desiging an app was realativley straightforward. All iPhones had the same screen resolution, and iPad developers would often develop two version of an app however those days 
 are gone and you can only expect to see more resolutions to deal with in the future.
 
 Thankfully you've started developing at the right time and this issue is not as great as it used to be, Auto Layout is a layout engine and with Xcode6/iOS 8 *Adaptive Auto Layout* 
